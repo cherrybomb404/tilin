@@ -8,10 +8,10 @@ function showVideo() {
 
 function changeImage() {
     const img = document.getElementById('interactive-image');
-    img.src = 'images/alternative-image.jpg';
+    img.src = 'https://cherrybomb404.github.io/repo/images/alternative-image.jpg';
 }
 
 function revertImage() {
     const img = document.getElementById('interactive-image');
-    img.src = 'images/pacman.gif';
+    img.src = 'https://cherrybomb404.github.io/repo/images/pacman.gif';
 }
