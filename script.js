@@ -8,7 +8,7 @@ function showVideo() {
 
 function changeImage() {
     const img = document.getElementById('interactive-image');
-    img.src = 'https://cherrybomb404.github.io/repo/images/alternative-image.jpg';
+    img.src = 'alternative-image.jpg';
 }
 
 function revertImage() {
