@@ -13,5 +13,5 @@ function changeImage() {
 
 function revertImage() {
     const img = document.getElementById('interactive-image');
-    img.src = 'https://cherrybomb404.github.io/repo/images/pacman.gif';
+    img.src = 'pacman.gif';
 }
